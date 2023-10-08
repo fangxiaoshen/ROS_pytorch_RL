@@ -1,5 +1,5 @@
 # ROS_pytorch_RL
-在turtlebot3，pytorch上使用DQN,DDPG,PPO,SAC算法，在gazebo上实现仿真。Use DQN, DDPG, PPO, SAC algorithm on turtlebot3, pytorch on turtlebot3, pytorch, and realize simulation on gazebo. Use DQN, DDPG, PPO, SAC algorithm to realize simulation on gazebo.
+在turtlebot3，pytorch上使用DQN,DDPG,PPO,SAC算法，在gazebo上实现仿真。
 # 仿真配置教程
 https://blog.csdn.net/qq2650326396/article/details/124801005
 # 实车配置教程
