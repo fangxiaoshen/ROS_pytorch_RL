@@ -1,5 +1,9 @@
 # ROS_pytorch_RL
 在turtlebot3，pytorch上使用DQN,DDPG,PPO,SAC算法，在gazebo上实现仿真。Use DQN, DDPG, PPO, SAC algorithm on turtlebot3, pytorch on turtlebot3, pytorch, and realize simulation on gazebo. Use DQN, DDPG, PPO, SAC algorithm to realize simulation on gazebo.
+# 仿真配置教程
+https://blog.csdn.net/qq2650326396/article/details/124801005
+# 实车配置教程
+https://blog.csdn.net/qq2650326396/article/details/132076450
 
 # 我设置了新的reward和控制，让小车减少碰撞。在PPO下训练了140回合后的训练效果：
 可以看到小车一定不会碰撞，因为我加了一个膨胀的距离给小车。 
